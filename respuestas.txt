@@ -1,0 +1,3 @@
+9) ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior?
+
+Si utilizamos el intérprete de Ruby, el código del programa se intrepreta y se muestra por pantalla literalmente. Sin embargo, si utilizamos el intérprete interactivo, pasa cada bloque de código como un comando nuevo que ejecuta IRB y además muestra un valor de retorno.
